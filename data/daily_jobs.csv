@@ -1,0 +1,10 @@
+job_id,bike_id,job_date,service_type,labor_hours,labor_rate,status,notes
+5025,101,2026-07-01,TUNE_UP,1.5,95.00,COMPLETED,Pre-race tune up
+5026,104, 2026-07-01 , tune up ,1.0,95.00,completed,Typed by hand in the app
+5027,105,2026-07-01,WHEEL_TRUE,0.5,$95.00,COMPLETED,Dollar sign in the rate
+5028,999,2026-07-01,FLAT_REPAIR,0.5,95.00,COMPLETED,Bike not in the system
+5029,103,2026-07-32,TUNE_UP,1.5,95.00,COMPLETED,Impossible date
+5030,108,2026-07-01,DRIVETRAIN,one,95.00,COMPLETED,Hours written as a word
+5031,109,2026-07-01,PAINT_JOB,2.0,95.00,COMPLETED,Service we do not offer
+5032,111,2026-07-01,BRAKE_SERVICE,-1.0,95.00,COMPLETED,Negative hours
+5014,101,2026-03-10,TUNE_UP,1.5,95.00,COMPLETED,March job sent again
